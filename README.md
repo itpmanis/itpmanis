@@ -37,7 +37,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop)
   
   
-  <a href="https://github.com/ArtemVeremienko">
+  <a href="https://github.com/itpmanis">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itpmanis&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpmanis&theme=buefy&layout=compact" />
 </a>

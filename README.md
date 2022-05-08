@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying front-end development.
-- 🌱 &nbsp; Learning more about frameworks, paradigms, algorithms.
+
 
   
   

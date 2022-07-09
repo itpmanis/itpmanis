@@ -8,7 +8,4 @@
 
   
   
-  <a href="https://github.com/itpmanis">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itpmanis&theme=buefy&show_icons=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpmanis&theme=buefy&layout=compact" />
-</a>
+ <a href="https://github.com/itpmanis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpmanis&layout=compact&theme=buefy&hide_border=true" /></a>

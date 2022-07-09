@@ -8,4 +8,3 @@
 
   
   
- <a href="https://github.com/itpmanis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpmanis&layout=compact&theme=buefy&hide_border=true" /></a>
